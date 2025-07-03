@@ -37,6 +37,6 @@ python quiz.py
 
 ## ✨ Author
 
-Made with ❤️ by [Your Name]  
-📧 Contact: [your.email@example.com]  
-🔗 GitHub: [github.com/yourusername]
+Made with ❤️ by [Hoorain Baig]  
+📧 Contact: [baighoorain75@gmail.com]  
+🔗 GitHub: [hoorainbaigg129@gmail.com]
