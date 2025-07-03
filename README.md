@@ -39,4 +39,4 @@ python quiz.py
 
 Made with ❤️ by [Hoorain Baig]  
 📧 Contact: [baighoorain75@gmail.com]  
-🔗 GitHub: [hoorainbaigg129@gmail.com]
+🔗 GitHub: [https://github.com/Hoorainbaigg]
